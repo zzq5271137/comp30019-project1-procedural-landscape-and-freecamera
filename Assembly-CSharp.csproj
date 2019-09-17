@@ -59,13 +59,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Camera\CameraMotion.cs" />
+    <Compile Include="Assets\Camera\CapsuleMove.cs" />
     <Compile Include="Assets\Landscape\CreateLandscape\CreateLandscape.cs" />
     <Compile Include="Assets\Landscape\CreateLandscape\DiamondSquareAlgorithm.cs" />
     <Compile Include="Assets\Landscape\CreateLandscape\ProceduralTerrain.cs" />
     <Compile Include="Assets\Landscape\CreateLandscape\TerrainEditor.cs" />
     <Compile Include="Assets\Landscape\RanderLandscape\RanderLandscape.cs" />
     <Compile Include="Assets\Landscape\RanderLandscape\TextureEditor.cs" />
+    <Compile Include="Assets\Light\Moon\moonScript.cs" />
+    <Compile Include="Assets\Light\Sun\sunScript.cs" />
+    <Compile Include="Assets\Water\Water.cs" />
+    <None Include="Assets\Water\waterShader.shader" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/zzq52/Desktop/Graphics and Interaction/assignments/assignment 1/COMP30019-Project1/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

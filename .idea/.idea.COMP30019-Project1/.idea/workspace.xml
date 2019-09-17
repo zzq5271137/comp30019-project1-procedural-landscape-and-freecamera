@@ -2,57 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8de32ef0-6014-4a67-b442-d6df6ddc6352" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.COMP30019-Project1/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.COMP30019-Project1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.COMP30019-Project1/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.COMP30019-Project1/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.COMP30019-Project1/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.COMP30019-Project1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.COMP30019-Project1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Landscape/DiamondSquareAlgorithm.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Landscape/DiamondSquareAlgorithm.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Landscape/Landscape.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Landscape/Landscape.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Landscape/ProceduralTerrain.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Landscape/ProceduralTerrain.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Landscape/TerrainEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Landscape/TerrainEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/COMP30019-Project1.sln" beforeDir="false" afterPath="$PROJECT_DIR$/COMP30019-Project1.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Camera/CameraMotion.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Camera/CameraMotion.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Camera/FlightSimulator.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Camera/FlightSimulator.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Landscape/CreateLandscape/Landscape.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Landscape/CreateLandscape/Landscape.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProjectSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptMapper" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptMapper" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ShaderCache.db" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/2fd905-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/2fd905-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/b2e858-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/b2e858-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/18/18c19665fbbf44599c677dfb6a97e38b" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/18/18c19665fbbf44599c677dfb6a97e38b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/27/27bcd9fed3084c17859f3c1560098c3e" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/27/27bcd9fed3084c17859f3c1560098c3e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/58/585dfea775cba73459b57dc6bfe85f3a" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/58/585dfea775cba73459b57dc6bfe85f3a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/0b/0b640aabbb546cd4d9d45a1bb20f0c18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/0b/0b640aabbb546cd4d9d45a1bb20f0c18.info" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/58/585dfea775cba73459b57dc6bfe85f3a.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/58/585dfea775cba73459b57dc6bfe85f3a.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/81/81b7c09d42a2eea4baccaffcbc3c143b" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/81/81b7c09d42a2eea4baccaffcbc3c143b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/9f/9fc0d4010bbf28b4594072e72b8655ab" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/9f/9fc0d4010bbf28b4594072e72b8655ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/9f/9fc0d4010bbf28b4594072e72b8655ab.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/9f/9fc0d4010bbf28b4594072e72b8655ab.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/81/81b7c09d42a2eea4baccaffcbc3c143b.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/81/81b7c09d42a2eea4baccaffcbc3c143b.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/82/82557c65a8e4d0449ae24bc995ab92df" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/82/82557c65a8e4d0449ae24bc995ab92df.info" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe4.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe7.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe7.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,11 +49,16 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Landscape/CreateLandscape/TerrainEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Landscape/RanderLandscape/RanderLandscape.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Camera/CapsuleMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Light/Sun/sunScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Landscape/RanderLandscape/TextureEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Landscape/CreateLandscape/CreateLandscape.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Landscape/CreateLandscape/DiamondSquareAlgorithm.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Landscape/CreateLandscape/ProceduralTerrain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Water/Water.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Landscape/CreateLandscape/CreateLandscape.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Water/waterShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Light/Moon/moonScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Landscape/RanderLandscape/RanderLandscape.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Landscape/CreateLandscape/DiamondSquareAlgorithm.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -82,6 +70,11 @@
         <option value="$PROJECT_DIR$/Assets/Landscape/RanderLandscape/TextureEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/Landscape/RanderLandscape/RanderLandscape.cs" />
         <option value="$PROJECT_DIR$/Assets/Landscape/CreateLandscape/CreateLandscape.cs" />
+        <option value="$PROJECT_DIR$/Assets/Landscape/CreateLandscape/ProceduralTerrain.cs" />
+        <option value="$PROJECT_DIR$/Assets/Light/Sun/sunScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Light/Moon/moonScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Water/Water.cs" />
+        <option value="$PROJECT_DIR$/Assets/Camera/CapsuleMove.cs" />
       </list>
     </option>
   </component>
@@ -142,6 +135,17 @@
       <workItem from="1568313594423" duration="1082000" />
       <workItem from="1568336522681" duration="749000" />
       <workItem from="1568337337004" duration="65000" />
+      <workItem from="1568348005074" duration="1597000" />
+      <workItem from="1568362008280" duration="337000" />
+      <workItem from="1568429696521" duration="691000" />
+      <workItem from="1568439175037" duration="4038000" />
+      <workItem from="1568443339679" duration="101000" />
+      <workItem from="1568443936005" duration="1249000" />
+      <workItem from="1568445487314" duration="238000" />
+      <workItem from="1568520126587" duration="5000" />
+      <workItem from="1568520135298" duration="18000" />
+      <workItem from="1568521015154" duration="3000" />
+      <workItem from="1568521036101" duration="7000" />
     </task>
     <servers />
   </component>
